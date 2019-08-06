@@ -12,5 +12,5 @@ Paper: http://www.cs.cmu.edu/~tanja/BCI/BCIreview.pdf
 
 Strategy to control the robot for motor-imagery-based system, I imagined that I was moving my arms to control different movements of the robot. 
 
-the features were the power of the alpha/mu and beta (because this is the BCI system based on sensorimotor cortex).
+The features were the power of the alpha/mu and beta (because this is the BCI system based on sensorimotor cortex).
  
