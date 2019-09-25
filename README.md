@@ -6,6 +6,9 @@ There are 4 main files:
 3. initialization.py and
 4. ANN_MMN.py.
 
+Run:
+python GUI_MMN_ver3.py
+
 YT: https://www.youtube.com/watch?v=ARXPPh2w2VY
 
 Paper: http://www.cs.cmu.edu/~tanja/BCI/BCIreview.pdf
