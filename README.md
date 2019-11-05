@@ -17,6 +17,10 @@ Strategy to control the robot for motor-imagery-based system, I imagined that I 
 
 The features were the power of the alpha/mu and beta (because this is the BCI system based on sensorimotor cortex).
  
+TODO:
+1. Save trained NN
+2. Acquire: pre-task -- task -- post-task
+ 
 Requirement:
   1. python=3.4
   2. scipy
