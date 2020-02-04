@@ -25,5 +25,5 @@ Requirement:
   1. python=3.4
   2. scipy
   3. matplotlib
-  4. PyQt4
+  4. PyQt4; sudo -H python3 -m pip install pyqt5
   5. pyserial
